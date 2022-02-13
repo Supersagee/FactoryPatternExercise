@@ -1,0 +1,16 @@
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.exe
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.deps.json
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.json
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.runtimeconfig.dev.json
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.dll
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\ref\FactoryPatternExercise.dll
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net5.0\FactoryPatternExercise.pdb
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.AssemblyReference.cache
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfoInputs.cache
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.AssemblyInfo.cs
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.dll
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\ref\FactoryPatternExercise.dll
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.pdb
+C:\Users\Billy\source\repos\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net5.0\FactoryPatternExercise.genruntimeconfig.cache
